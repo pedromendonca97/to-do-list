@@ -15,7 +15,7 @@ Aplicativo de gerenciamento de tarefas (To-Do List) construído com Node.js. Est
 
 # Como rodar o projeto
 - Clone o repositório
-  - git clone https://github.com/seu-usuario/to-do-list.git
+  - git clone https://github.com/pedromendonca97/to-do-list.git
   
 - Entre na pasta do projeto
   - cd to-do-list
