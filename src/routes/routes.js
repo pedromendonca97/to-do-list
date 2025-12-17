@@ -1,13 +1,13 @@
 import express from "express"
-import {
+import { 
   createTaskController,
   getAllTasksController,
   updateTaskController,
   deleteTaskController,
   setTaskStatusController
-} from "../controllers/controller.js"
+} from "../controllers/controller.js" // Importação dos controllers
 
-const router = express.Router()
+const router = express.Router() // Atribuindo a função Router() do express a variável router
 
 router.post("/tasks", createTaskController) // Rota de criação de tarefas
 

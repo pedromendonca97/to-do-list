@@ -1,4 +1,4 @@
-// Modelo das tarefas
+// Criando modelo das tarefas
 
 function createTask(id, title, isCompleted) {
   return {

@@ -11,7 +11,7 @@ import {
   updateTaskService,
   deleteTaskService,
   setTaskStatusService
-} from "../services/task_services.js"
+} from "../services/task_services.js" // Importando funções de validação do service
 
 function createTaskController(req, res) {
 
